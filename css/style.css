@@ -24,7 +24,7 @@ header {
 
 img {
   border-radius: 20px !important;
-  width: 80%;
+
   box-shadow: 10px 10px 30px rgb(38, 110, 128);
 }
 
@@ -36,7 +36,6 @@ img {
 
 .job {
   writing-mode: vertical-rl;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   margin-top: 10px;
-  margin-left: -10px;
 }
